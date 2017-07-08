@@ -2,6 +2,7 @@ package com.android.mozio.docapp.viewModel;
 
 import android.content.Context;
 
+import com.android.mozio.docapp.R;
 import com.android.mozio.docapp.model.PatientInfoModel;
 
 /**
